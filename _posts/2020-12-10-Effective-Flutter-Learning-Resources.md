@@ -22,6 +22,8 @@ Date: 2020-12-10 06:21  PM +05:30
 	9. [Material Design](https://material.io/design)
 	10.
 
+	Article on flutter Gpay and ApplePay integration 
+
 
 Some Javascript Shit
 ```
