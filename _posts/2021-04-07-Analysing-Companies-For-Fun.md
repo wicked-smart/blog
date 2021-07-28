@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analysing Companies for fun
-date:  2021-28-07 01:15  PM +05:30
+date:  2021-28-07 01:15:00  +0530
 ---
 
 List of Cool companies :-
